@@ -1,20 +1,12 @@
 {
   "polls": {
-    "54448814": {
-      "question": "Hari apaa les komputer?",
+    "26303428": {
+      "question": "P",
       "options": [
-        "Jumat",
-        "Sabtu",
-        "Senin"
+        "O"
       ],
-      "created_at": "2025-11-13T15:04:01.899Z",
-      "responses": [
-        {
-          "name": "Gusti",
-          "answer": "Sabtu",
-          "timestamp": "2025-11-13T15:05:18.355Z"
-        }
-      ]
+      "created_at": "2025-11-13T15:09:25.317Z",
+      "responses": []
     }
   }
 }
