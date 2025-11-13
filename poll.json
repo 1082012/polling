@@ -1,1 +1,14 @@
-{}
+{
+  "polls": {
+    "54448814": {
+      "question": "Hari apaa les komputer?",
+      "options": [
+        "Jumat",
+        "Sabtu",
+        "Senin"
+      ],
+      "created_at": "2025-11-13T15:04:01.899Z",
+      "responses": []
+    }
+  }
+}
