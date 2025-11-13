@@ -8,7 +8,13 @@
         "Senin"
       ],
       "created_at": "2025-11-13T15:04:01.899Z",
-      "responses": []
+      "responses": [
+        {
+          "name": "Gusti",
+          "answer": "Sabtu",
+          "timestamp": "2025-11-13T15:05:18.355Z"
+        }
+      ]
     }
   }
 }
